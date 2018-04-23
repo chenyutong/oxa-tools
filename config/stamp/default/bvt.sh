@@ -16,7 +16,8 @@ ENVIRONMENT=bvt
 ##########################
 
 # the site certificate files (.crt & .key) have to be named after the BASE_URL value
-BASE_URL=trafficmanager.cn 
+# BASE_URL=trafficmanager.cn 
+BASE_URL=allenficusOxa.com
 LMS_URL=lms.$BASE_URL
 CMS_URL=cms.$BASE_URL
 PREVIEW_URL=preview.$BASE_URL
